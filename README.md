@@ -1,8 +1,8 @@
 # ComponentComunicationV2
 Three ways to communicate components with angular
-input/output
-Service
-Observable
+**input/output**
+**Service**
+**Observable**
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
